@@ -1,0 +1,2 @@
+# Gestão Inteligente da Saúde Pública
+O GISP é um sistema que facilita a tomada de decisão do gestor de saúde pública através da análise de dados e machine learning. Possibilitando uma previsão de demanda de atendimento, tornando mais assertiva a distribuição de insumos, profissionais e alocação de verba, o GISP é um modelo de processamento de dados preparado para uma predição de eventos com antecedência e acurácia com base na localização das unidades de saúde.
